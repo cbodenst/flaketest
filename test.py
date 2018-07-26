@@ -1,4 +1,5 @@
 import numpy as np
 
+
 def ThisIsATest():
-    return(np.empty((100,100)))
+    return(np.empty((100, 100)))
